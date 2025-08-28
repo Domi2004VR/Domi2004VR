@@ -15,7 +15,7 @@ Computer Engineering Student at Politecnico di Bari
 
 🌱 Currently focused on:  
 - Strengthening my skills in the **MERN stack**  
-- Expanding my knowledge by studying **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />  and **sping boot** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+- Expanding my knowledge by studying **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />  and **spring boot** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
 - Building projects to apply best practices in software development  
 
 🚀 My goals:  
